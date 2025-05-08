@@ -25,7 +25,7 @@ type Male = Person & { Roman: string; };
 7.Provide an example of using union and intersection types in TypeScript.
 
 
-Union Type
+**Union Type**
 function studentId(studId: string | number) {
   console.log("Your id is:", studId);
 }
