@@ -35,7 +35,7 @@ console.log(studentId(407482));
 
 
 
-Intersection Type   
+**Intersection Type**  
 type User = {
   name: string;
 };
